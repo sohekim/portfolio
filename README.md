@@ -1,3 +1,3 @@
-# Sohee Kim Portfolio Website
+# Sohee Kim Portfolio Website 👋🏼
 
-Built with Flutter. Deployed using Github Pages.
+A responsive and mobile friendly web app built with Flutte and deployed using Github Pages.
