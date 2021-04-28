@@ -1,3 +1,3 @@
 # Sohee Kim Portfolio Website
 
-Built with Flutter. Deployed using Github Pages
+Built with Flutter. Deployed using Github Pages.
